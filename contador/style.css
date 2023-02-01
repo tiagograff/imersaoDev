@@ -1,0 +1,30 @@
+body {
+    background-image: url("https://addons-media.operacdn.com/media/CACHE/images/themes/05/144705/1.0-rev1/images/0993404e-79e0-4052-923d-89236e7c102f/e4f4077f6d1f715a07786ff7692a8d1d.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-position: center top;
+    text-align: center;
+    margin:0;
+}
+
+.alura-icon{
+    width: 40px;
+    position:absolute;
+    top: 10px;
+    right: 10px;
+}
+
+h1{
+    color: #dfdb19;
+    font-family: "Roboto Mono", monospace;
+    text-align: center;
+    margin: 40px 0px;
+    background-origin:padding-box;
+    width: 100%;
+}
+
+.logo-image img{
+    width: 250px;
+    
+}
